@@ -22,7 +22,7 @@ The CAD for the Flukebox was pretty simple. I gave the PCB a 0.2 mm clearance on
 
 Here are all the components you'll need for the Flukebox V1.0:
 
-[Flukebox V1.0 BOM](BOM.csv)
+[Flukebox V1.0 BOM](./BOM.csv)
 
 Of course, you'll also need lead, a soldering iron, and a 3D printer w/filament to print the case and the lid out. Those prices will vary. However, when you don't count those miscellaneous prices, the Flukebox V1.0 will run you $33.82, pre-taxes! That's pretty good!
 
