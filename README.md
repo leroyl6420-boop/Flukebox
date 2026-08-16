@@ -1,7 +1,7 @@
 # Flukebox
 A portable, off-grid, open-source MP3 player! Supports Bluetooth Classic and analog headphones. 
 
-# PCB Desing
+# PCB Design
 
 The Flukebox V1.0 uses a two-layer PCB to house all its MCU's, modules, resistors and capacitors. Due to my inexperience in soldering, I didn't feel ready to order a bunch of bare components off Digikey or LCSC and solder them all together. Instead, I ordered modules for the things I needed the Flukebox to do, and am planning to solder them right onto the PCB using cut pin headers or solid wire. I will probably ditch this strategy in a future version, but it'll do for now. At least it makes the schematic and PCB design easier.
 
