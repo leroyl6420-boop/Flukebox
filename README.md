@@ -42,7 +42,7 @@ Here are all the components you'll need for the Flukebox V1.0:
 | 8GB Micro SD Card *(recommended)* | 1 | $5.60 | [Amazon](https://www.amazon.com/KEXIN-Adapter-microSDHC-Smartphone-Console/dp/B0D5HDNMP8) |
 | **Total** |  | **$38.20** | |
 
-Of course, you'll also need lead, a soldering iron, and a 3D printer w/filament to print the case and the lid out. Those prices will vary. However, when you don't count those miscellaneous prices, the Flukebox V1.0 will run you $33.82, pre-taxes! That's pretty good!
+Of course, you'll also need lead, a soldering iron, and a 3D printer w/filament to print the case and the lid out. Those prices will vary. However, when you don't count those miscellaneous prices, the Flukebox V1.0 will run you $38.20, pre-taxes! That's pretty good!
 
 
 
