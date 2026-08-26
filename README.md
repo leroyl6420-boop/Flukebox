@@ -26,12 +26,12 @@ Here are all the components you'll need for the Flukebox V1.0:
 |---|---:|---:|---|
 | Flukebox V1.0 PCB | 1 | $6.14 | [PCBWay](https://www.pcbway.com/) |
 | 1100mAh 3.7V LiPo Battery | 1 | $6.15 | [Amazon](https://www.amazon.com/EEMB-1100mAh-Battery-Rechargeable-Connector/dp/B08VRYS8FT) |
-| Micro SD Reader | 1 | $1.20 | [Amazon](https://www.amazon.com/Adapter-Reader-Interface-Arduino-Raspberry/dp/B0H493ZTBM) |
+| Micro SD Reader | 1 | $5.99 | [Amazon](https://www.amazon.com/Adapter-Reader-Interface-Arduino-Raspberry/dp/B0H493ZTBM) |
 | 128x64 OLED | 1 | $3.00 | [Amazon](https://www.amazon.com/Hosyond-Display-Self-Luminous-Compatible-Raspberry/dp/B09T6SJBV5) |
-| TP4056 Charging Module | 1 | $2.00 | [Amazon](https://www.amazon.com/HiLetgo-Lithium-Charging-Protection-Functions/dp/B07PKND8KG) |
-| EC11 Rotary Encoder | 1 | $1.48 | [Amazon](https://www.amazon.com/WWZMDiB-Encoder-Digital-Potentiometer-Arduino/dp/B0C6Q67V97) |
+| TP4056 Charging Module | 1 | $5.99 | [Amazon](https://www.amazon.com/HiLetgo-Lithium-Charging-Protection-Functions/dp/B07PKND8KG) |
+| EC11 Rotary Encoder | 1 | $3.00 | [Amazon](https://www.amazon.com/WWZMDiB-Encoder-Digital-Potentiometer-Arduino/dp/B0C6Q67V97) |
 | 6x6mm 4-pin Push Buttons | 3 | $0.15 | [Amazon](https://www.amazon.com/QTEATAK-Momentary-Tactile-Button-Switch/dp/B07VSNN9S2) |
-| PCM5102 DAC Module | 1 | $4.44 | [Amazon](https://www.amazon.com/PCM5102-PCM5102A-Digital-Converter-Raspberry/dp/B0DNW32Y46) |
+| PCM5102 DAC Module | 1 | $8.88 | [Amazon](https://www.amazon.com/PCM5102-PCM5102A-Digital-Converter-Raspberry/dp/B0DNW32Y46) |
 | ESPRESSIF ESP32-WROOM-32E-N8 | 1 | $5.43 | [DigiKey](https://www.digikey.com/en/products/detail/espressif-systems/ESP32-WROOM-32E-N8/13159522) |
 | Slide Switch | 1 | $0.30 | [Amazon](https://www.amazon.com/Position-Breadboard-Electronic-Miniature-SlideSwitch/dp/B09R3XLVVS) |
 | MCP1826S-3302E/AB | 1 | $1.32 | [DigiKey](https://www.digikey.com/en/products/detail/microchip-technology/MCP1826S-3302E-AB/1635996) |
@@ -39,8 +39,8 @@ Here are all the components you'll need for the Flukebox V1.0:
 | 1uF 5x11 Capacitor | 1 | $0.40 | [Amazon](https://www.amazon.com/ALLECIN-Electrolytic-Capacitor-0-2x0-43in-Capacitors/dp/B0CMQC587X) |
 | 10uF 5x11 Capacitor | 1 | $0.40 | [Amazon](https://www.amazon.com/ALLECIN-Electrolytic-Capacitor-0-2x0-43in-Capacitors/dp/B0CMQ8FNQL) |
 | 10kΩ Resistors | 2 | $0.12 | [Amazon](https://www.amazon.com/EDGELEC-Resistor-Tolerance-Multiple-Resistance/dp/B07QJB31M7) |
-| 8GB Micro SD Card *(recommended)* | 1 | $5.60 | [Amazon](https://www.amazon.com/KEXIN-Adapter-microSDHC-Smartphone-Console/dp/B0D5HDNMP8) |
-| **Total** |  | **$38.20** | |
+| 8GB Micro SD Card *(recommended)* | 1 | $19.99 | [Amazon](https://www.amazon.com/Sandisk-Flash-Memory-Card-SDSDQM-008G-B35/dp/B001D0ROGO) |
+| **Total** |  | **$67.33** | |
 
 Of course, you'll also need lead, a soldering iron, and a 3D printer w/filament to print the case and the lid out. Those prices will vary. However, when you don't count those miscellaneous prices, the Flukebox V1.0 will run you $38.20, pre-taxes! That's pretty good!
 
